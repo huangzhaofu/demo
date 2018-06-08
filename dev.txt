@@ -1,3 +1,1 @@
-This is a conflicts test.
-This is test .txt file.
-The times is conflicts test.
+hi conflicts.This is test .txt file.
