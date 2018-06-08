@@ -1,1 +1,1 @@
-hi conflicts.This is test .txt file.
+conflicts test successful.This is test .txt file.
